@@ -1,6 +1,6 @@
 # Swagger-
 
-根据swagger 生成代理类
+根据swagger 生成http请求代理类
 
  
 
